@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="Collabtive" -->
+<?xml-stylesheet href="" type="text/xsl"?>
+<rss version="2.0">
+    <channel>
+        <title>My messages</title>
+        <description></description>
+        <link>http://localhost/ku-spms/managemessage.php?action=mymsgs</link>
+        <lastBuildDate>Thu, 03 Jan 1980 23:58:55 +0100</lastBuildDate>
+        <generator>Collabtive</generator>
+        <item>
+            <title>first job</title>
+            <link>http://localhost/ku-spms/managemessage.php?action=showmessage&amp;mid=1&amp;id=1</link>
+            <description><![CDATA[what should i do for the first assignment]]></description>
+            <author>ramesh</author>
+        </item>
+    </channel>
+</rss>
